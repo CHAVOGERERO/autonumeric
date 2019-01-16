@@ -1,2 +1,2 @@
 # autonumeric
-auto number format
+소수점 표현, 정수표현 3자리 이상 정수,소수점 콤마 표현 기능.
